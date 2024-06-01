@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "729525192659",
+    "project_id": "tourbuddy-7fcfa",
+    "storage_bucket": "tourbuddy-7fcfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729525192659:android:5861b5ad2ed2b94cffd126",
+        "android_client_info": {
+          "package_name": "com.example.partial_tourbuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729525192659-1l8mm3bucj2lbjaql82737oqf16crbrq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo4_CF-psLmZQdUy2AJBJMvvU2P6-_c6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729525192659-1l8mm3bucj2lbjaql82737oqf16crbrq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
